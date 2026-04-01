@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dinipuspitasari&theme=bear&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dinipuspitasari&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dinipuspitasari&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dinipuspitasari&theme=bear&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dinipuspitasari&icon=0&color=2)](https://visitcount.itsvg.in)
